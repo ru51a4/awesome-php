@@ -152,6 +152,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [CraftCMS](https://github.com/craftcms/cms) - A flexible, user-friendly CMS for creating custom digital experiences on the web and beyond.
 * [Drupal](https://www.drupal.org) - An enterprise level CMS.
 * [Grav](https://github.com/getgrav/grav) - A modern flat-file CMS.
+* [IblockCMS](https://github.com/ru51a4/iblockcms) - Laravel based CMS (EAV Catalog).
 * [Joomla](https://www.joomla.org/) - Another leading CMS.
 * [Kirby](https://getkirby.com/) - A flat-file CMS that adapts to any project.
 * [Magento](https://github.com/magento/magento2) - The most popular e-commerce platform.
@@ -160,7 +161,6 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Statamic](https://statamic.com/) - Build beautiful, easy-to-manage websites.
 * [Sulu](https://sulu.io/) - A user and developer friendly focused CMS and Platform based on the Symfony Framework.
 * [WordPress](https://github.com/WordPress/WordPress) - A blogging platform and CMS.
-* [IblockCMS](https://github.com/ru51a4/iblockcms) - Laravel based CMS (EAV Catalog).
 
 ### Components
 *Standalone components from web development frameworks and development groups.*
